@@ -1,3 +1,7 @@
 - Clean up README
 - Add CONTRIBUTING guide
+<<<<<<< HEAD
 - Fix typos changed this line in second local copy 
+=======
+- Fix typos and changed this line in original copy of the repo 
+>>>>>>> daae06255691cecfd850576cc1c2a529aadde77f
