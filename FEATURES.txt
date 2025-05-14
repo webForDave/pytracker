@@ -1,3 +1,1 @@
-* Complete docs README
-* Learn what customers want with technical docs
-* Finish push task in backlog 
+
