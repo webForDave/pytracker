@@ -1,0 +1,3 @@
+- Clean up README
+- Add CONTRIBUTING guide
+- Fix typos 
